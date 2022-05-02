@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../rgb"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "xo"
+	}
+}
