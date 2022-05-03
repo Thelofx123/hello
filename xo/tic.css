@@ -16,8 +16,7 @@
         text-align: center;
         cursor:crosshair;
     }
- 
-    /* Reset Button */
+
     #but {
         box-sizing: border-box;
         width: 95px;
